@@ -1,5 +1,7 @@
 # Jogo do Número Secreto
 
+![Logo do Projeto](img/numeros.gif)
+
 Este é um simples jogo do número secreto desenvolvido com HTML, CSS e JavaScript. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 1 e 40.
 
 ## Instrutores
